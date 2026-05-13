@@ -1,0 +1,5 @@
+co\vivaeventos\notificationservice\service\NotificationService.class
+co\vivaeventos\notificationservice\controller\NotificationController$TicketRequest.class
+co\vivaeventos\notificationservice\NotificationServiceApplication.class
+co\vivaeventos\notificationservice\controller\NotificationController.class
+co\vivaeventos\notificationservice\model\NotificationRequest.class
